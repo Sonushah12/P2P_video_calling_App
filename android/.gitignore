@@ -1,0 +1,22 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+.dart_tool/
+.packages
+.pub-cache/
+build/
+android/.gradle/
+.idea/
+*.iml
+GeneratedPluginRegistrant.java
+.cxx/
+# Firebase configs (if you want)
+android/app/google-services.json
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
